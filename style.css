@@ -1,0 +1,49 @@
+
+
+body {
+  color: rgb(237, 240, 240)
+  background: black;
+  margin: 0px;
+  font-family "Chakra patch"
+}
+margin: opx:;
+font:family: Satisfy
+}
+header {
+  border bottom: solid 2px rgb (95, 6, 185)
+  padding: 20px;
+  font-size: 32px;
+  color: aqua;
+}
+.chamada {
+  background: rgb(184, 156,213)
+  padding bottom} 
+    display:flex;
+    overflow-x:auto;
+    gap: 10px;
+}
+
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px
+  margin-top: 50px
+}
+
+.categoria-videos ing:{
+  opacity: 0,5;
+  height: 200px;
+  {
+
+categoria-videos ing:hover{
+  opacity: 1.0;
+  border: 1px solid green
+
+}
+
+.categoria h2{
+  color:blue(42,122,228)
+} 
+
+
+
+
